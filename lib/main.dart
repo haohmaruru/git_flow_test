@@ -30,4 +30,8 @@ class MyApp extends StatelessWidget {
   Widget test3() {
     return Container();
   }
+
+  Widget test4() {
+    return Container();
+  }
 }
