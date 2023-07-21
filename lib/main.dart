@@ -22,4 +22,12 @@ class MyApp extends StatelessWidget {
   Widget test1() {
     return Container();
   }
+
+  Widget test2() {
+    return Container();
+  }
+
+  Widget test3() {
+    return Container();
+  }
 }
