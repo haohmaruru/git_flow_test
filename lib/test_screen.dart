@@ -68,4 +68,8 @@ class _TestScreenState extends State<TestScreen> {
   Widget task31() {
     return Container();
   }
+
+  Widget task32() {
+    return Container();
+  }
 }
