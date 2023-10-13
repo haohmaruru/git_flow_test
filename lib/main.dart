@@ -26,4 +26,8 @@ class MyApp extends StatelessWidget {
   Widget cm2() {
     return Container();
   }
+
+  Widget cm3() {
+    return Container();
+  }
 }
