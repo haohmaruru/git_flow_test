@@ -18,28 +18,4 @@ class MyApp extends StatelessWidget {
       home: TestScreen(),
     );
   }
-
-  Widget cm1() {
-    return Container();
-  }
-
-  Widget cm2() {
-    return Container();
-  }
-
-  Widget cm3() {
-    return Container();
-  }
-
-  Widget test1() {
-    return Container();
-  }
-
-  Widget test2() {
-    return Container();
-  }
-
-  Widget test3() {
-    return Container();
-  }
 }
