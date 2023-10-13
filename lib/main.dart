@@ -19,6 +19,18 @@ class MyApp extends StatelessWidget {
     );
   }
 
+  Widget cm1() {
+    return Container();
+  }
+
+  Widget cm2() {
+    return Container();
+  }
+
+  Widget cm3() {
+    return Container();
+  }
+
   Widget test1() {
     return Container();
   }
